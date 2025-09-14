@@ -7,6 +7,3 @@
 
  }
 
-// ctrl + alt+ N = for running code
-// ctrl + L =   clear
-// clear + enter 
